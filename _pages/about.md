@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Who the heck is Marco?
+title: Marco Pelegrini
 permalink: /about
 comments: true
 ---
-
-# Marco
 
 ![marco](assets/images/portrait-corporate.jpeg)
 

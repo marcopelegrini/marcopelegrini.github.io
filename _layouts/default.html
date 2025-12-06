@@ -15,6 +15,7 @@
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="https://kit.fontawesome.com/d648de35d5.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -66,7 +67,7 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/about">Who the heck is Marco?</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/about">Who the heck is Marco Pelegrini?</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -131,11 +132,11 @@ ga('send', 'pageview');
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}

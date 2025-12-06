@@ -5,7 +5,7 @@ summary: If you get bored while in the can, problem solved!
 author: marco
 tags: [hardware, burningman]
 categories: [ Hardware ]
-image: assets/images/londonscalling/cta.jpg
+image: assets/images/londonscalling/cta.png
 beforetoc: "The main parts of the London's Calling"
 toc: true
 hidden: false
@@ -13,11 +13,14 @@ hidden: false
 
 ## London's Calling
 
-The London's Calling is an art installation debuted on [Burn in the forest](https://whatif.now/) (now WhatIf).
+[The London's Calling](https://www.instagram.com/thelondonscalling/) is an art installation debuted at [Burn in The Forest](https://whatif.now/) (now WhatIf).
 
-It comprises of the facelifting a few porta-potties as the iconic London telephone booth. Inside you'll find a replica of an old coin telephone which can be used to communicate with the other porta-potties in the event.
+What if you could find a door which would allow you to communicate with others at distance while having a pretty personal experience? Have you talked to someone through the bathroom door?
+London's Calling is the call for you to raise the bar on your communication paradigms. 💩 💦
 
-My friend _Sarah Haywood_ and I wanted to create an art project for the event to bring a fun and interactive attraction to the crowd.
+The project comprises of the facelifting a few porta-potties (3 in its first appearance) as the iconic London telephone booth. Inside you'll find a replica of an old coin telephone which can be used to communicate with the other porta-potties in the event.
+
+My friend - _[Sarah Haywood](https://www.instagram.com/haywood.sarahhaywood)_ - and I wanted to create an art project for the event to bring a fun and interactive attraction to the crowd.
 
 Sarah quicly designed the façade while I started working on the communication parts. That's how the London's Calling came to existence.
 
@@ -35,6 +38,7 @@ The facade was made of a few materials:
 - Mirror stickers
 - Spray paint
 
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/components.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/porta.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/forest.jpg)
 
@@ -50,3 +54,5 @@ The telephone was custom built using:
 
 ![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/pcb.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/radios.jpg)
+
+Find more photos on the [London's Calling](https://www.instagram.com/thelondonscalling/) <i class="fa-brands fa-instagram"></i>Instagram

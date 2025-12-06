@@ -15,7 +15,7 @@ hidden: false
 
 I've built these bedside tables using scrap materials I've found laying around.
 
-Built using:
+Built with:
 - XCarve CNC
 - Wood router
 - Pocket hole jig
