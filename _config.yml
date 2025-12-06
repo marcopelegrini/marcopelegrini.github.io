@@ -1,67 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+# Site
+name: "pelegrini.ca"
 title: "pelegrini.ca"
-description: "Hardware, Software, Life... hacked"
-
+description: "Hardware, Software, Life... hacked!"
+logo: 'assets/images/favicon.png'
+favicon: 'favicon.ico'
+baseurl: ""
+google_analytics: ''
+disqus: 'pelegrini.ca'
+include: ["_pages"]
 permalink: pretty
 
-collections:
-  sites:
-    permalink: "/:path/"
-    output: true
+# Authors
+authors:
+  marco:
+    name: Marco
+    display_name: Marco
+    gravatar: 10a7b55a30b00719b109636a35873f21
+    email: marco@pelegrini.ca
+    web: https://pelegrini.ca
+    description: "It's me, Marco."
 
-defaults:
-  - scope:
-      path: ""
-      type: sites
-    values:
-      layout: default
-
+# Plugins
 plugins:
-  - jekyll-redirect-from
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - CONTRIBUTING.md
-  
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+# Featured Posts ("enabled" or "disabled")
+featured-posts: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, pelegrinicabackup]
