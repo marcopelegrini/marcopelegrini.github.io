@@ -22,7 +22,7 @@ The project comprises of the facelifting a few porta-potties (3 in its first app
 
 My friend - _[Sarah Haywood](https://www.instagram.com/haywood.sarahhaywood)_ - and I wanted to create an art project for the event to bring a fun and interactive attraction to the crowd.
 
-Sarah quicly designed the façade while I started working on the communication parts. That's how the London's Calling came to existence.
+Sarah quickly designed the façade while I started working on the communication parts. That's how the London's Calling came to existence.
 
 ![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/sarah.jpg)
 
