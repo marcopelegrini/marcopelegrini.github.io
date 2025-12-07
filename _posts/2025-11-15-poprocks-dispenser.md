@@ -15,7 +15,7 @@ hidden: false
 
 In the BurningMan community I'm PopRocks 💥, a bit I do where I give people the classic exploding candy.
 
-Dealing with the little bags is hard so I've built this dispenser that I load with the candy and I can easily distribute the perfect amount of happiness to everyone.
+Dealing with the little pop rocks packages is hard so I've built this dispenser that I load with the candy and I can easily distribute the perfect amount of happiness to everyone.
 
 Built with:
 - X1 Carbon 3D Printer

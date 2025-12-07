@@ -84,7 +84,13 @@ ga('send', 'pageview');
                     <a class="nav-link" href="https://www.instagram.com/mrpelegrini/" target="_blank">
                         <i class="fab fa-instagram"></i> Life photos
                     </a>
-                </li>                
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#" data-toggle="modal" data-target="#contactModal">
+                        <i class="fa-solid fa-envelope"></i> Contact me
+                    </a>
+                </li>
 
                 <!-- {% include search-lunr.html %} -->
 
@@ -95,6 +101,46 @@ ga('send', 'pageview');
 </nav>
 <!-- End Navigation
 ================================================== -->
+
+<!-- Contact Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="contactModalLabel">Contact Me</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>You can reach me at:</p>
+        <div class="d-flex align-items-center">
+          <p class="lead mb-0 mr-3" id="emailText"></p>
+          <button type="button" class="btn btn-sm btn-primary" id="copyEmailBtn">
+            <i class="fa-regular fa-copy"></i> Copy
+          </button>
+        </div>
+        <small id="copyFeedback" class="text-success" style="display:none;">Email copied!</small>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var email = atob('bWFyY29AcGVsZWdyaW5pLmNh');
+  document.getElementById('emailText').textContent = email;
+  
+  document.getElementById('copyEmailBtn').addEventListener('click', function() {
+    navigator.clipboard.writeText(email).then(function() {
+      var feedback = document.getElementById('copyFeedback');
+      feedback.style.display = 'block';
+      setTimeout(function() {
+        feedback.style.display = 'none';
+      }, 2000);
+    });
+  });
+});
+</script>
 
 <div class="site-content">
 
