@@ -178,6 +178,7 @@ DEPENDENCIES
   kramdown
   logger
   rouge
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.7.2
