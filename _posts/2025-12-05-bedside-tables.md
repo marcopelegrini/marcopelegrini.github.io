@@ -7,8 +7,6 @@ tags: [furniture, tables]
 categories: [ Furniture ]
 image: assets/images/bedside/cta.jpg
 beforetoc: "Just a fun project for when you can't sleep"
-toc: true
-hidden: false
 ---
 
 ## Bedside tables

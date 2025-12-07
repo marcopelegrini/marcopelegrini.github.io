@@ -7,7 +7,6 @@ tags: [Gadgets, PopRocks, BurningMan]
 categories: [ BurningMan, PopRocks, 3D Print ]
 image: assets/images/poprocks/dispenser/cta.jpg
 beforetoc: "A little device to facilitate bringing joy to everyone"
-toc: true
 hidden: false
 ---
 
