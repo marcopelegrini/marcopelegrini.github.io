@@ -2,7 +2,7 @@
 layout: page
 title: Marco Pelegrini
 permalink: /about
-comments: true
+comments: false
 ---
 
 ![marco](assets/images/portrait-corporate.jpeg)

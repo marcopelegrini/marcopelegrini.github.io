@@ -2,11 +2,11 @@
 name: "pelegrini.ca"
 title: "pelegrini.ca"
 description: "Hardware, Software, Life... hacked!"
-logo: 'assets/images/favicon.png'
+logo: 'assets/images/favicon.jpg'
 favicon: 'favicon.ico'
 baseurl: ""
 google_analytics: ''
-disqus: 'pelegrini.ca'
+disqus: 'pelegrini-ca'
 include: ["_pages"]
 permalink: pretty
 
@@ -37,7 +37,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
     
 # Other

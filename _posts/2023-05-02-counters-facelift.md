@@ -9,6 +9,7 @@ image: assets/images/counters-facelift/after-kitchen-sink-final2.jpg
 beforetoc: "A facelifted counter is better than nothing"
 toc: true
 hidden: false
+comments: false
 ---
 
 ## Facelift of my rental counter tops

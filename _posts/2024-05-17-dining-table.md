@@ -7,6 +7,7 @@ tags: [furniture]
 categories: [ Furniture ]
 image: assets/images/dining-table/legs.jpg
 beforetoc: "A marble dining table with a custom base"
+comments: false
 ---
 
 I wanted a nice marble table, but they're so expensive... I've decided to make one:

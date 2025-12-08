@@ -7,6 +7,7 @@ tags: [software]
 categories: [ Software ]
 image: assets/images/software/cta.jpg
 toc: true
+comments: false
 ---
 
 # 3D Modeling

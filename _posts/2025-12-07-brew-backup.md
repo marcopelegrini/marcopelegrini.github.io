@@ -6,6 +6,7 @@ author: marco
 tags: [software]
 categories: [ Software ]
 image: assets/images/brew-backup/cta.jpg
+comments: false
 ---
 
 ## Homebrew scheduled backup

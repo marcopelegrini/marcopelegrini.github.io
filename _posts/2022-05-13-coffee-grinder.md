@@ -7,6 +7,7 @@ tags: [utilities]
 categories: [ Utilities ]
 image: assets/images/coffee-grinder/cta.jpg
 beforetoc: "An adapter for the Cuisinart Coffee Grinder"
+comments: false
 ---
 
 ## Coffee Grinder Adapter
