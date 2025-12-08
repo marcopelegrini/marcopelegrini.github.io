@@ -5,7 +5,7 @@ summary: If you get bored while in the can, problem solved!
 author: marco
 tags: [hardware, burningman]
 categories: [ Hardware ]
-image: assets/images/londonscalling/cta.png
+image: assets/images/londonscalling/cta.jpg
 beforetoc: "The main parts of the London's Calling"
 toc: true
 hidden: false
