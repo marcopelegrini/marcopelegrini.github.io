@@ -5,7 +5,7 @@ summary: "A marble dining table with a custom base"
 author: marco
 tags: [furniture]
 categories: [ Furniture ]
-image: assets/images/dining-table/legs.jpg
+image: assets/images/dining-table/cta.jpg
 beforetoc: "A marble dining table with a custom base"
 comments: false
 ---
@@ -21,4 +21,7 @@ Built with:
 - Table saw
 - Adobe Fusion
 
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/1.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/2.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/3.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/legs.jpg)
