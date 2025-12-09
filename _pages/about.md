@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-![marco](assets/images/portrait-corporate.jpeg)
+![marco](assets/images/portrait-corporate.jpg)
 
 I’m someone who has built a life around curiosity, responsibility, and the ongoing desire to create things that matter. I’m a father first; raising twins has shaped how I see the world, the pace I move at, and the patience I bring into every part of my life. Being present for them keeps me anchored and reminds me why I push myself to grow, learn, and stay balanced.
 
