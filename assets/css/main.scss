@@ -10,5 +10,6 @@
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+@include meta.load-css("darkmode");
 @include meta.load-css("screen");
 @include meta.load-css("monokai");

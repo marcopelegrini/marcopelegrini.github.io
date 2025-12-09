@@ -2,7 +2,7 @@
 name: "pelegrini.ca"
 title: "pelegrini.ca"
 description: "Hardware, Software, Life... hacked!"
-logo: 'assets/images/favicon.jpg'
+logo: 'assets/images/icon.svg'
 favicon: 'favicon.ico'
 baseurl: ""
 google_analytics: ''
@@ -17,8 +17,6 @@ authors:
     display_name: Marco
     gravatar: 10a7b55a30b00719b109636a35873f21
     email: marco@pelegrini.ca
-    web: https://pelegrini.ca
-    description: "It's me, Marco."
 
 # Plugins
 plugins:

@@ -1,3 +1,59 @@
+// Dark Mode Theme Toggle
+(function() {
+    // Get theme from localStorage or system preference
+    const getPreferredTheme = () => {
+        const storedTheme = localStorage.getItem('theme');
+        if (storedTheme) {
+            return storedTheme;
+        }
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    };
+
+    const setTheme = (theme) => {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('theme', theme);
+        updateThemeIcon(theme);
+    };
+
+    const updateThemeIcon = (theme) => {
+        const darkIcon = document.getElementById('dark-icon');
+        const lightIcon = document.getElementById('light-icon');
+        
+        if (darkIcon && lightIcon) {
+            if (theme === 'dark') {
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+            } else {
+                darkIcon.classList.add('active');
+                lightIcon.classList.remove('active');
+            }
+        }
+    };
+
+    // Set theme on load
+    const currentTheme = getPreferredTheme();
+    setTheme(currentTheme);
+
+    // Toggle theme on button click
+    document.addEventListener('DOMContentLoaded', function() {
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            themeToggle.addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                setTheme(newTheme);
+            });
+        }
+    });
+
+    // Listen for system theme changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+        if (!localStorage.getItem('theme')) {
+            setTheme(e.matches ? 'dark' : 'light');
+        }
+    });
+})();
+
 jQuery(document).ready(function($){
 
     //fix for stupid ie object cover

@@ -193,7 +193,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .30);
     display: inline-block;
 }
 
@@ -737,16 +737,6 @@ img[alt=marco] {
     margin-bottom: 0rem;
     color: #999;
     border-top: 1px solid #ddd;
-}
-
-.pointerup {
-    margin-bottom: -17px;
-    margin-left: 49%;
-    font-size: 30px;
-}
-
-.pointerup i.fa {
-    color: #eaeaea;
 }
 
 .bottompagination span.navigation i {
