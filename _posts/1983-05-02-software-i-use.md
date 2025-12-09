@@ -10,6 +10,13 @@ toc: true
 comments: false
 ---
 
+# IDE
+IntelliJ IDEA
+Rider
+RustRover
+WebStorm
+VS Code
+
 # 3D Modeling
 - Fusion 360
 - Blender
@@ -19,7 +26,6 @@ comments: false
 - Cura
 - Bamboo Studio
 
-
 # Image editing
 - Pixelmator
 - Adobe Illustrator
@@ -27,5 +33,23 @@ comments: false
 # Home Automation
 - Homebridge
 
+# Photo Management
+- PhotoSweeper X
+
 # Torrent
 - qBittorrent
+
+# Terminal
+zsh
+asdf
+atuin
+
+
+# Aliases
+
+{% highlight shell %}
+alias l='ls -lhArtG'
+alias grep="grep --color=auto"
+alias lso='sudo lsof -iTCP -sTCP:LISTEN -n -P'
+alias chmox='chmod +x'
+{% endhighlight %}
