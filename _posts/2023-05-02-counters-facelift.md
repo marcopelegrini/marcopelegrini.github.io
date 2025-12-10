@@ -5,7 +5,7 @@ summary: "When your landlord is a cheapskate"
 author: marco
 tags: [furniture]
 categories: [ Furniture ]
-image: assets/images/counters-facelift/after-kitchen-sink-final2.jpg
+image: assets/images/counters-facelift/cta.jpg
 beforetoc: "A facelifted counter is better than nothing"
 toc: true
 hidden: false
@@ -28,6 +28,7 @@ Built with:
 - XCarve CNC
 
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-kitchen-sink.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/cnc.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink-final.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink-final2.jpg)

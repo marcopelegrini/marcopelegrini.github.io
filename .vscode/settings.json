@@ -1,0 +1,4 @@
+{
+    "mocha.enabled": true,
+    "sarif-viewer.connectToGithubCodeScanning": "off"
+}

@@ -12,8 +12,6 @@ comments: false
 
 I wanted a nice marble table, but they're so expensive... I've decided to make one:
 
-Missing actual table photo (thanks OneDrive), will update soon
-
 Built with:
 
 - A gigantic marble lazy-susan I've found on the Facebook Marketplace
@@ -21,7 +19,10 @@ Built with:
 - Table saw
 - Adobe Fusion
 
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/0.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/1.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/2.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/3.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/dining-table/legs.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/4.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/5.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dining-table/6.jpg)
