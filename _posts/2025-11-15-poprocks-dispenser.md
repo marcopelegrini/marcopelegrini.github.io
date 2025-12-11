@@ -20,4 +20,4 @@ Dealing with the little pop rocks packages is hard so I've built this dispenser 
 Built with:
 - X1 Carbon 3D Printer
 - Autodesk Fusion
-- Roland printer (sticker)
+- Roland BN2-20 printer (sticker)
