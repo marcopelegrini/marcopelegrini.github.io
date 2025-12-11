@@ -30,3 +30,5 @@ Materials:
 ![fivehundred]({{ site.baseurl }}/assets/images/bedside-tables/3.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/bedside-tables/4.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/bedside-tables/5.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/bedside-tables/6.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/bedside-tables/7.jpg)
