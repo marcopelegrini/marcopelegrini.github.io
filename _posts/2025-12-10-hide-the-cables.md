@@ -5,7 +5,7 @@ summary: "Just a little touch of organization"
 author: marco
 tags: [utilities]
 categories: [ Utilities ]
-image: assets/images/work-in-progress.jpg
+image: assets/images/hide-the-cables/cta.jpg
 comments: false
 ---
 
@@ -17,3 +17,7 @@ Materials:
 - Epoxy
 
 ![fivehundred]({{ site.baseurl }}/assets/images/hide-the-cables/1.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/hide-the-cables/2.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/hide-the-cables/3.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/hide-the-cables/4.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/hide-the-cables/5.jpg)
