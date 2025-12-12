@@ -19,8 +19,6 @@ You may disable the use of cookies by selecting the appropriate settings on your
 Please note that you have to deactivate tracking for every single browser you use to prevent tracking from Google Analytics completely.
 <br/><br/>
 For further information about Google’s privacy policy please visit: <a href="https://www.google.de/intl/en/policies/privacy/">https://www.google.de/intl/en/policies/privacy/</a> (external link to Google)
-
-
 <h2> 2. Google Fonts</h2>
 
 On our websites we use the service Google Fonts, a service of Google Inc. based in the USA (in the following: Google). By including this service in our websites data of website visitors may be transferred to Google. This processing takes place on the legal basis of Art. 6 (1) sent. 1 point (f) GDPR because of our legitimate interest to make our websites more attractive to our website visitors. With Google Fonts fonts on our websites may be displayed consistently and we may offer faster loading times for our websites. When accessing our website your browser downloads the necessary Google Fonts to the browser cache to display texts and fonts correctly. According to Google your requests for fonts are separate from and do not contain any credentials you send to the Google server while using other Google services that are authenticated.

@@ -12,10 +12,12 @@ comments: false
 I've made this cutting board from some scrap material I had
 
 Built with:
+
 - XCarve CNC
 - Wood router
 
 Materials:
+
 - IKEA countertop scrap wood
 
 ![fivehundred]({{ site.baseurl }}/assets/images/cutting-board/1.jpg)

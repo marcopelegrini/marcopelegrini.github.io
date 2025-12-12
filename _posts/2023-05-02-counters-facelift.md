@@ -25,6 +25,7 @@ Check out the before and after photos:
 ### Kitchen sink
 
 Built with:
+
 - XCarve CNC
 
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-kitchen-sink.jpg)
@@ -40,5 +41,6 @@ Built with:
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-corner-final.jpg)
 
 ### Bathroom
+
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-bathroom.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-bathroom.jpg)

@@ -15,11 +15,13 @@ comments: false
 I've built these bedside tables using scrap materials I've found laying around.
 
 Built with:
+
 - XCarve CNC
 - Wood router
 - Pocket hole jig
 
 Materials:
+
 - IKEA countertop scrap wood
 - 2x4 pine
 - 1x8 birch planks

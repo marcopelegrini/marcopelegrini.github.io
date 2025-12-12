@@ -14,11 +14,13 @@ comments: false
 Most of my software is installed through [Homebrew](https://brew.sh/), so I've created this setup to back it up automatically for me:
 
 Built using:
+
 - Bash scripts
 - PList
 
-### Backup script:
+### Backup script
 
+<!-- markdownlint-disable -->
 {% highlight shell %}
 #!/bin/bash
 
@@ -33,9 +35,11 @@ brew list --cask > "$BACKUP_DIR/brew-cask-list-$DATE.txt"
 
 echo "Backup saved to $BACKUP_DIR"
 {% endhighlight %}
+<!-- markdownlint-restore -->
 
 ### PList
 
+<!-- markdownlint-disable -->
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -58,6 +62,7 @@ echo "Backup saved to $BACKUP_DIR"
 </dict>
 </plist>
 {% endhighlight %}
+<!-- markdownlint-restore -->
 
 ### Load it
 

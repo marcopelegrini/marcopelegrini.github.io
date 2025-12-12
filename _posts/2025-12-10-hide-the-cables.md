@@ -12,6 +12,7 @@ comments: false
 I find cables showing unnatractive, let's hide them!
 
 Materials:
+
 - 3.5mm Birch cuts
 - Corner brackets
 - Epoxy

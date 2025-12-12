@@ -10,42 +10,49 @@ toc: true
 comments: false
 ---
 
-# IDE
+## IDE
+
 IntelliJ IDEA
 Rider
 RustRover
 WebStorm
 VS Code
 
-# 3D Modeling
+## 3D Modeling
+
 - Fusion 360
 - Blender
 - SketchUp
 
-# 3D Printing
+## 3D Printing
+
 - Cura
 - Bamboo Studio
 
-# Image editing
+## Image editing
+
 - Pixelmator
 - Adobe Illustrator
 
-# Home Automation
+## Home Automation
+
 - Homebridge
 
-# Photo Management
+## Photo Management
+
 - PhotoSweeper X
 
-# Torrent
+## Torrent
+
 - qBittorrent
 
-# Terminal
+## Terminal
+
 zsh
 asdf
 atuin
 
-
-# Aliases
+## Aliases
 
 {% highlight shell %}
 alias l='ls -lhArtG'
