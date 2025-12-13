@@ -9,7 +9,7 @@ image: assets/images/work-in-progress.jpg
 comments: false
 ---
 
-I've made this cutting board from some scrap material I had
+I've made this cutting board from some scrap material I had.
 
 Built with:
 

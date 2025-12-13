@@ -10,14 +10,14 @@ beforetoc: "A marble dining table with a custom base"
 comments: false
 ---
 
-I wanted a nice marble table, but they're so expensive... I've decided to make one:
+I wanted a nice marble table, but they're so expensive, so I decided to make one:
 
 Built with:
 
-- A gigantic marble lazy-susan I've found on the Facebook Marketplace
+- A gigantic marble lazy susan I found on Facebook Marketplace
 - Hardwood floor planks
 - Table saw
-- Adobe Fusion
+- Autodesk Fusion 360
 
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/0.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/dining-table/1.jpg)

@@ -14,11 +14,11 @@ comments: false
 
 ## Facelift of my rental counter tops
 
-I live in this amazing tiny apartment in one of the best neighbourhoods of Vancouver - BC, but unfortunatelly I rent it and the place is pretty outadate.
+I live in this amazing tiny apartment in one of the best neighbourhoods of Vancouver, BC, but unfortunately I rent it and the place is pretty outdated.
 
-Fear not, I've found a solution. Using IKEA Tables I've bought from the Facebook Marketplace, I've facelifted the existing countertops, keeping the original intact should I leave one day (not happening!).
+Fear not, I've found a solution. Using IKEA tables I bought from Facebook Marketplace, I've given the existing countertops a facelift, keeping the original intact should I leave one day (not happening!).
 
-New faucets and voilá, I can live in peace.
+New faucets and voilà, I can live in peace.
 
 Check out the before and after photos:
 

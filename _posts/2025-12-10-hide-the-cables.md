@@ -9,7 +9,7 @@ image: assets/images/hide-the-cables/cta.jpg
 comments: false
 ---
 
-I find cables showing unnatractive, let's hide them!
+I find cables showing unattractive, so let's hide them!
 
 Materials:
 

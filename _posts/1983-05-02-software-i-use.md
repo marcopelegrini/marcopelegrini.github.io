@@ -20,7 +20,7 @@ VS Code
 
 ## 3D Modeling
 
-- Fusion 360
+- Autodesk Fusion 360
 - Blender
 - SketchUp
 

@@ -11,7 +11,7 @@ comments: false
 
 ## Homebrew scheduled backup
 
-Most of my software is installed through [Homebrew](https://brew.sh/), so I've created this setup to back it up automatically for me:
+Most of my software is installed through [Homebrew](https://brew.sh/), so I've created this setup to back it up automatically:
 
 Built using:
 

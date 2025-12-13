@@ -20,4 +20,4 @@ The little cup also serves as a tamper.
 ![fivehundred]({{ site.baseurl }}/assets/images/coffee-grinder/cuisinart.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/coffee-grinder/cta.jpg)
 
-Unfortunatelly I don't have a photo of it installed.
+Unfortunately, I don't have a photo of it installed.
