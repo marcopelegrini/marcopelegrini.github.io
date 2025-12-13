@@ -85,6 +85,12 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/testimonials">
+                        <i class="fa-solid fa-comments"></i> Testimonials
+                    </a>
+                </li>
+
+                <li class="nav-item">
                     <a class="nav-link" href="#" data-toggle="modal" data-target="#contactModal">
                         <i class="fa-solid fa-envelope"></i> Contact me
                     </a>
@@ -120,12 +126,11 @@ ga('send', 'pageview');
       <div class="modal-body">
         <p>The best way to reach out is via email:</p>
         <div class="d-flex align-items-center">
-          <p class="lead mb-0 mr-3" id="emailText"></p>
-          <button type="button" class="btn btn-sm btn-primary" id="copyEmailBtn">
+          <p class="lead mb-0 mr-3 text-success" id="emailText"></p>
+          <button type="button" class="btn btn-sm btn-success" id="copyEmailBtn">
             <i class="fa-regular fa-copy"></i> Copy
           </button>
         </div>
-        <small id="copyFeedback" class="text-success" style="display:none;">Email copied!</small>
       </div>
     </div>
   </div>
@@ -136,11 +141,12 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('emailText').textContent = email;
   
   document.getElementById('copyEmailBtn').addEventListener('click', function() {
+    var btn = this;
+    var originalHTML = btn.innerHTML;
     navigator.clipboard.writeText(email).then(function() {
-      var feedback = document.getElementById('copyFeedback');
-      feedback.style.display = 'block';
+      btn.innerHTML = '<i class="fa-solid fa-check"></i> Copied';
       setTimeout(function() {
-        feedback.style.display = 'none';
+        btn.innerHTML = originalHTML;
       }, 2000);
     });
   });
