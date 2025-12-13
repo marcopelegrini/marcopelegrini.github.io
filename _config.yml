@@ -2,7 +2,8 @@
 name: "pelegrini.ca"
 title: "pelegrini.ca"
 description: "Hardware, Software, Life... hacked!"
-logo: 'assets/images/icon.svg'
+logo: 'assets/images/logo-short.svg'
+logo_png: 'assets/images/logo-short.png'
 favicon: 'favicon.ico'
 baseurl: ""
 url: "https://pelegrini.ca"

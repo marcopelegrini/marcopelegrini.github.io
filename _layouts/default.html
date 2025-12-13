@@ -4,7 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.jpg">
+<link rel="icon" href="{{ site.baseurl }}/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon-16x16.png">
+<link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -13,15 +17,15 @@
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:title" content="{{ page.title }} | {{site.name}}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image" content="{{ site.logo | absolute_url }}">
-<meta property="og:logo" content="{{ site.logo | absolute_url }}">
+<meta property="og:image" content="{{ site.logo_png | absolute_url }}">
+<meta property="og:logo" content="{{ site.logo_png | absolute_url }}">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary">
 <meta property="twitter:url" content="{{ page.url | absolute_url }}">
 <meta property="twitter:title" content="{{ page.title }} | {{site.name}}">
 <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta property="twitter:image" content="{{ site.logo | absolute_url }}">
+<meta property="twitter:image" content="{{ site.logo_png | absolute_url }}">
 
 {% seo %}
 
