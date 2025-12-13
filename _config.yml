@@ -5,6 +5,7 @@ description: "Hardware, Software, Life... hacked!"
 logo: 'assets/images/icon.svg'
 favicon: 'favicon.ico'
 baseurl: ""
+url: "https://pelegrini.ca"
 google_analytics: ''
 disqus: 'pelegrini-ca'
 include: ["_pages"]
