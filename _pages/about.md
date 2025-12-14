@@ -7,7 +7,7 @@ comments: false
 
 ![marco](assets/images/portrait-corporate.jpg)
 
-I’m someone who has built a life around curiosity, responsibility, and the ongoing desire to create things that matter. I’m a father first; raising twins has shaped how I see the world, the pace I move at, and the patience I bring into every part of my life. Being present for them keeps me anchored and reminds me why I push myself to grow, learn, and stay balanced.
+I'm someone who has built a life around curiosity, responsibility, and the ongoing desire to penetrate the world and create things that matter. I'm a father first; raising twins has shaped how I see the world, the pace I move at, and the patience I bring into every part of my life. Being present for them keeps me anchored and reminds me why I push myself to grow, learn, and stay balanced.
 
 My work centers on software engineering and architecture. I spend most of my time designing systems that are stable, scalable, and actually useful—things people can rely on. I like diving into complex problems, shaping messy requirements into clean architecture, and collaborating with people who care about craftsmanship. I’ve worked on enterprise platforms, distributed systems, cloud-based services, and a variety of internal tools. When something works elegantly and efficiently, it feels like the closest thing to digital art.
 

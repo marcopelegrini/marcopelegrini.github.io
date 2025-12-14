@@ -17,6 +17,20 @@ title: pelegrini.ca
         </div>
         <div class="col-md mb-30px">
             <div class="h-100">
+                <a href="{{ site.baseurl }}/testimonials">
+                    <i class="fa-solid fa-comments"></i> Testimonials
+                </a>
+            </div>
+        </div>
+        <div class="col-md mb-30px">
+            <div class="h-100">
+                <a href="{{ site.baseurl }}/inspirations">
+                    <i class="fa-solid fa-lightbulb"></i> Inspirations
+                </a>
+            </div>
+        </div>
+        <div class="col-md mb-30px">
+            <div class="h-100">
                 <a href="https://www.linkedin.com/in/mpelegrini" target="_blank">
                     <i class="fab fa-linkedin-in"></i> My career
                 </a>
@@ -26,13 +40,6 @@ title: pelegrini.ca
             <div class="h-100">
                 <a href="https://www.instagram.com/mrpelegrini/" target="_blank">
                     <i class="fab fa-instagram"></i> Life photos
-                </a>
-            </div>
-        </div>
-        <div class="col-md mb-30px">
-            <div class="h-100">
-                <a href="{{ site.baseurl }}/testimonials">
-                    <i class="fa-solid fa-comments"></i> Testimonials
                 </a>
             </div>
         </div>
@@ -74,19 +81,15 @@ title: pelegrini.ca
 <section class="recent-posts">
 
     <div class="section-title">
-
         <h2><span>My projects</span></h2>
-
     </div>
 
     <div class="row listrecent">
-
         {% for post in paginator.posts %}
 
         {% include postbox.html %}
 
         {% endfor %}
-
     </div>
 
 </section>

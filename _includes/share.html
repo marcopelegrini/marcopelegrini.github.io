@@ -30,6 +30,16 @@
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
+
+    <li class="ml-1 mr-1">
+      <a
+        href="#"
+        onclick="navigator.clipboard.writeText('{{ page.url | absolute_url }}');this.innerHTML='<i class=\'fas fa-check\'></i>';setTimeout(() => {this.innerHTML='<i class=\'fas fa-link\'></i>';}, 2000);return false;"
+        title="Copy link"
+      >
+        <i class="fas fa-link"></i>
+      </a>
+    </li>
   </ul>
   <div class="sep"></div>
   <p>Like</p>

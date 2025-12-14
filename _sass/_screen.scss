@@ -62,10 +62,14 @@ section.recent-posts {
   margin-bottom: 0;
 }
 
+.section-title h1 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 27px;
+}
+
 .section-title h2 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
-  margin-bottom: 25px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1.4rem;
   margin-bottom: 27px;
 }
@@ -147,7 +151,7 @@ h3 {
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
   font-size: 1.3rem;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.25;
 }
 
@@ -313,7 +317,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 
@@ -546,7 +550,7 @@ ul.tags li a:hover {
   border-radius: 30px;
   font-size: 0.85rem;
   margin-left: 10px;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
 }
 
@@ -594,7 +598,7 @@ ul.tags li a:hover {
   padding: 4px 10px;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
-  font-weight: 600;
+  font-weight: 500;
   height: 34px;
   letter-spacing: 0.5px;
   cursor: pointer;
@@ -621,7 +625,7 @@ ul.tags li a:hover {
 }
 
 .authorpage h1 {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 30px;
 }
 
@@ -705,7 +709,7 @@ h6 {
 .article-post h4,
 .article-post h5,
 .article-post h6 {
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 1.5rem;
 }
 
@@ -758,7 +762,7 @@ img[alt="marco"] {
 span.navigation {
   display: inline-block;
   font-size: 0.93rem;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
 }
 
