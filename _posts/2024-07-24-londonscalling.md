@@ -6,7 +6,6 @@ author: marco
 tags: [hardware, burningman]
 categories: [ Hardware ]
 image: assets/images/londonscalling/cta.jpg
-beforetoc: "The main parts of the London's Calling"
 toc: true
 hidden: false
 comments: false

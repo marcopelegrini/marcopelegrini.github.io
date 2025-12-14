@@ -61,4 +61,4 @@ lazyimages: "disabled"
 # Featured Posts ("enabled" or "disabled")
 featured-posts: "disabled"
 
-exclude: [2025-12-31-.md, changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, pelegrinicabackup]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, pelegrinicabackup]
