@@ -1,0 +1,42 @@
+{
+  "printWidth": 200,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "quoteProps": "as-needed",
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "ignore",
+  "proseWrap": "preserve",
+  "singleAttributePerLine": false,
+  "bracketSameLine": true,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "preserve",
+        "printWidth": 120
+      }
+    },
+    {
+      "files": ["*.html", "*.liquid"],
+      "options": {
+        "printWidth": 200,
+        "tabWidth": 2,
+        "singleAttributePerLine": false,
+        "bracketSameLine": true,
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    },
+    {
+      "files": "*.yml",
+      "options": {
+        "tabWidth": 2,
+        "singleQuote": false
+      }
+    }
+  ]
+}

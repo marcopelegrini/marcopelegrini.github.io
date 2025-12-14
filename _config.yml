@@ -2,15 +2,20 @@
 name: "pelegrini.ca"
 title: "pelegrini.ca"
 description: "Hardware, Software, Life... hacked!"
+url: "https://pelegrini.ca"
 logo: 'assets/images/logo-short.svg'
 logo_png: 'assets/images/logo-short.png'
 favicon: 'favicon.ico'
 baseurl: ""
-url: "https://pelegrini.ca"
 google_analytics: ''
 disqus: 'pelegrini-ca'
 include: ["_pages"]
 permalink: pretty
+
+#Feed
+feed:
+  icon: 'assets/images/logo-short.png'
+  logo: 'assets/images/logo-short.png'
 
 # Authors
 authors:
