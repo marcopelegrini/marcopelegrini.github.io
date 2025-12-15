@@ -5,7 +5,7 @@ summary: "Some improvements for the Baratza Encore"
 author: marco
 tags: [utilities]
 categories: [ Utilities ]
-image: assets/images/work-in-progress.jpg
+image: assets/images/baratza-improvements/cta.jpg
 comments: false
 ---
 
@@ -41,3 +41,4 @@ Built with:
 - X1 Carbon 3D Printer
 
 ![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/1.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/2.jpg)
