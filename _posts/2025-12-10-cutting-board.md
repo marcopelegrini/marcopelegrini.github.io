@@ -5,7 +5,7 @@ summary: "A funky cutting board"
 author: marco
 tags: [utilities]
 categories: [ Utilities ]
-image: assets/images/work-in-progress.jpg
+image: assets/images/cutting-board/cta.jpg
 comments: false
 ---
 
