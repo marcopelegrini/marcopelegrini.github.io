@@ -5,14 +5,22 @@ permalink: /inspirations
 comments: false
 ---
 
-Quick note on my personality:
-> I was born Brazilian 🇧🇷 with strong Italian 🇮🇹 influences. I'm very passionate, and you can see that in the way I interact with people and the world. It's not unusual to see me magnify issues that others wouldn't care about, and I carry a hint of perfectionism that I tend to apply to my life and my expectations of the world. All of this is a recipe for creating very heated, energetic, and passionate interactions. I always aspire to say things from a place of love, even when I'm criticizing banal things, for instance: that phrase that should've used the Oxford comma, so please bear with me. If I'm being too much for you, just tell me... I can handle it ;)
+## Quick note on my personality
+I was born Brazilian 🇧🇷 with strong Italian 🇮🇹 influences. I'm very passionate, and you can see that in the way I interact with people and the world. It's not unusual to see me magnify issues that others wouldn't care about, and I carry a hint of perfectionism that I tend to apply to my life and my expectations of the world. All of this is a recipe for creating very heated, energetic, and passionate interactions. I always aspire to say things from a place of love, even when I'm criticizing banal things, for instance: that phrase that should've used the Oxford comma, so please bear with me. If I'm being too much for you, just tell me... I can handle it ;)
 
-**What would be the perfect day for me?**
+## The 10 principles I live by
+
+[https://burningman.org/about/10-principles/](https://burningman.org/about/10-principles/)
+
+## What would be the perfect day for me?
 
 Watch `The Bear - Season 4, Episode 4` (it helps if you know the show) - around minute 20 you'll find what I'm chasing in life!
 
-The following is a work in progress... I'm adding items as I think of them, so stay tuned.
+> The following is a work in progress... I'm adding items as I think of them, so stay tuned.
+
+## MasterClass
+
+- [The Power Playbook: How to win at work](https://www.masterclass.com/classes/the-power-playbook)
 
 ## Books
 

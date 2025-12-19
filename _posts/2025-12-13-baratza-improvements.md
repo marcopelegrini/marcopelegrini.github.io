@@ -42,4 +42,3 @@ Built with:
 
 ![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/1.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/2.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/3.jpg)

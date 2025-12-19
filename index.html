@@ -87,7 +87,9 @@ title: pelegrini.ca
     <div class="row listrecent">
         {% for post in paginator.posts %}
 
+        {% unless post.private == true %}
         {% include postbox.html %}
+        {% endunless %}
 
         {% endfor %}
     </div>

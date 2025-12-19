@@ -13,7 +13,9 @@ permalink: "/categories.html"
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
+{% unless post.private == true %}
 {% include postbox.html %}
+{% endunless %}
 {% endif %}
 {% endif %}
 {% endfor %}

@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    {% if page.robots %}
+    <meta name="robots" content="{{ page.robots }}" />
+    {% elsif page.private == true %}
+    <meta name="robots" content="noindex, nofollow" />
+    {% endif %}
 
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/apple-touch-icon.png" />
