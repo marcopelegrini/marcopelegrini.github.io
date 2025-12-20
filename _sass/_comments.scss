@@ -1,0 +1,11 @@
+// Comments Styles
+#comments {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 999px) {
+  #comments {
+    margin-right: 15px;
+  }
+}

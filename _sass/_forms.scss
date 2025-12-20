@@ -1,0 +1,95 @@
+// Form Styles
+.form-control {
+  &::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  &:-moz-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  &::-moz-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  &:-ms-input-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  &::-ms-input-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+.alertbar {
+  box-shadow: 0 -3px 10px 0 rgba(0, 0, 0, 0.0785);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+  padding: 14px 0;
+  z-index: 1;
+  display: none;
+
+  form {
+    display: inline-block;
+  }
+
+  input[type="email"] {
+    font-size: 0.85rem;
+    padding: 3px 5px 3px 10px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: 1px solid #ddd;
+    border-right: 0;
+    margin-right: -10px;
+    height: 34px;
+    letter-spacing: 0.5px;
+    margin-left: 5px;
+  }
+
+  input[type="submit"] {
+    background-color: #1c9963;
+    border: 1px solid #1c9963;
+    color: rgba(255, 255, 255, 1);
+    fill: rgba(255, 255, 255, 1);
+    font-size: 0.85rem;
+    border-radius: 0;
+    padding: 4px 10px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    font-weight: 500;
+    height: 34px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+  }
+
+  @media (max-width: 999px) {
+    position: relative !important;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: none !important;
+    padding-right: 14px !important;
+
+    form {
+      margin-top: 20px;
+    }
+
+    span,
+    form {
+      display: block;
+    }
+
+    input[type="submit"] {
+      border-radius: 3px !important;
+    }
+
+    input[type="email"] {
+      margin-right: 0 !important;
+      display: block;
+      border-right: 1px solid #ddd !important;
+      margin-bottom: 10px;
+    }
+  }
+}

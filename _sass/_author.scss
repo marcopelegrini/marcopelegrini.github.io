@@ -1,0 +1,55 @@
+// Author Profile Styles
+.authorpage {
+  h1 {
+    font-weight: 500;
+    font-size: 30px;
+  }
+
+  .author-description {
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  &.graybg {
+    border-top: 1px solid #f0f0f0;
+  }
+}
+
+.post-top-meta.authorpage {
+  .author-thumb {
+    float: none;
+  }
+
+  .btn.follow {
+    padding: 7px 20px;
+    margin-top: 10px;
+    margin-left: 0;
+    font-size: 0.9rem;
+  }
+}
+
+.authorpostbox {
+  width: 760px;
+  margin: 0 auto 1.5rem;
+  max-width: 100%;
+
+  .img-thumb {
+    width: 100%;
+  }
+}
+
+.sociallinks {
+  margin: 1rem 0;
+
+  a {
+    background: #666;
+    color: #fff;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    text-align: center;
+    line-height: 22px;
+    border-radius: 50%;
+    font-size: 12px;
+  }
+}

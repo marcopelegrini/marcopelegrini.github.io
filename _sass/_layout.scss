@@ -1,0 +1,76 @@
+// Layout Structure
+.mainheading {
+  padding: 1rem 0rem;
+}
+
+.main-content {
+  min-height: 300px;
+}
+
+.site-content {
+  min-height: 60vh;
+  padding-top: 1.5rem;
+  margin-top: 57px;
+  transition: all 0.4s;
+}
+
+.site-content.homepage {
+  margin-top: 0;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section.recent-posts {
+  margin-bottom: 0;
+}
+
+.section-title h1 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 27px;
+}
+
+.section-title h2 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-weight: 500;
+  font-size: 1.4rem;
+  margin-bottom: 27px;
+}
+
+.section-title span {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.44);
+  display: inline-block;
+  padding-bottom: 20px;
+  margin-bottom: -1px;
+}
+
+.graybg {
+  background-color: #fafafa;
+  padding: 40px 0 46px;
+  position: relative;
+}
+
+.transpdark {
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+}
+
+.sticky-top-offset {
+  top: 100px;
+}
+
+.sticky-top-80 {
+  top: 80px;
+}
+
+.about-me {
+  a {
+    white-space: nowrap;
+  }
+
+  .signature {
+    text-align: right;
+    margin-top: -1rem;
+  }
+}

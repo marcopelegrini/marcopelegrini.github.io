@@ -1,0 +1,25 @@
+// Pagination Styles
+.bottompagination span.navigation {
+  display: block;
+  font-size: 0.93rem;
+  padding: 15px 0 0 0;
+  text-align: center;
+  margin-bottom: 0rem;
+  color: #999;
+  border-top: 1px solid #ddd;
+}
+
+.bottompagination span.navigation i {
+  display: inline-block;
+}
+
+span.navigation {
+  display: inline-block;
+  font-size: 0.93rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.pagination {
+  display: block;
+}

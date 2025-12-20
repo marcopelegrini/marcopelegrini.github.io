@@ -1,0 +1,159 @@
+// Post and Article Styles
+.article-post {
+  font-family: Merriweather;
+  font-size: 1.1rem;
+  line-height: 1.84;
+  color: rgba(0, 0, 0, 0.8);
+
+  p,
+  blockquote {
+    margin: 0 0 1.5rem 0;
+  }
+
+  ol,
+  ul {
+    margin-bottom: 1.5rem;
+  }
+
+  ol ol,
+  ul ul {
+    list-style: disc;
+    margin-bottom: 0;
+  }
+
+  .h1, .h2, .h3, .h4, .h5, .h6,
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+  }
+
+  img.shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.layout-page .article-post {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+
+  p {
+    margin-bottom: 1rem;
+  }
+}
+
+.featured-image {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.mainheading {
+  h1.sitetitle {
+    font-family: Righteous;
+  }
+
+  h1.posttitle {
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+}
+
+.post-top-meta {
+  margin-bottom: 2rem;
+
+  .author-thumb {
+    width: 72px;
+    height: 72px;
+  }
+
+  &.authorpage .author-thumb {
+    margin-top: 40px;
+  }
+
+  span {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.3);
+    display: inline-block;
+  }
+
+  .author-description {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 0.95rem;
+  }
+}
+
+.toc ul {
+  list-style: decimal;
+  font-weight: 400;
+}
+
+span {
+  &.post-name,
+  &.post-date,
+  &.author-meta {
+    display: inline-block;
+  }
+
+  &.post-date,
+  &.post-read {
+    color: rgba(0, 0, 0, 0.44);
+  }
+
+  &.post-read-more {
+    align-items: center;
+    display: block;
+    float: right;
+    margin-top: 8px;
+
+    a {
+      color: rgba(0, 0, 0, 0.44);
+
+      &:hover {
+        color: rgba(0, 0, 0, 0.8);
+      }
+    }
+  }
+
+  &.post-name a {
+    color: rgba(0, 0, 0, 0.8);
+  }
+}
+
+.dot:after {
+  content: "·";
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.wrapfooter {
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.author-thumb {
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
+  border-radius: 100%;
+}
+
+.author-meta {
+  flex: 1 1 auto;
+  white-space: nowrap !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+}
+
+@media (max-width: 1024px) {
+  .post-top-meta .col-md-10 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .post-top-meta.authorpage {
+    text-align: center;
+  }
+}

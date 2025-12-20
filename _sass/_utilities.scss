@@ -1,0 +1,76 @@
+// Utility Classes and Helpers
+.mb-30px {
+  margin-bottom: 30px;
+}
+
+.margtop3rem {
+  margin-top: 3rem;
+}
+
+.sep {
+  height: 1px;
+  width: 20px;
+  background: #999;
+  margin: 0 auto 1.2rem;
+}
+
+.flex-first {
+  order: -1;
+}
+
+.spoiler {
+  color: transparent;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  transition: all 0.4s;
+  cursor: pointer;
+  position: relative;
+
+  &:after {
+    position: absolute;
+    opacity: 0;
+    content: "Click to reveal spoiler";
+    top: 45%;
+    left: calc(50% - 100px);
+    text-shadow: none;
+    background: #222;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 1;
+    padding: 2px 3px;
+    width: 150px;
+    font-family: Arial;
+    text-align: center;
+    border-radius: 3px;
+    transition: all 0.4s;
+  }
+
+  &:hover:after {
+    opacity: 1;
+  }
+}
+
+.lazyimg {
+  display: block;
+  border: 0 none;
+  opacity: 1;
+  transition: opacity 0.25s;
+  background: #f2f2f2;
+  outline: 0 none;
+
+  &[data-src],
+  &[data-srcset] {
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+}
+
+@media (min-width: 768px) {
+  .flex-md-unordered {
+    order: 1;
+  }
+
+  .flex-first {
+    order: 1;
+  }
+}

@@ -11,5 +11,19 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @include meta.load-css("darkmode");
-@include meta.load-css("screen");
+@include meta.load-css("base");
+@include meta.load-css("layout");
+@include meta.load-css("navigation");
+@include meta.load-css("posts");
+@include meta.load-css("cards");
+@include meta.load-css("author");
+@include meta.load-css("pagination");
+@include meta.load-css("footer");
+@include meta.load-css("buttons");
+@include meta.load-css("share");
+@include meta.load-css("tags");
+@include meta.load-css("comments");
+@include meta.load-css("forms");
+@include meta.load-css("jumbotron");
+@include meta.load-css("utilities");
 @include meta.load-css("monokai");

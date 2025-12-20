@@ -1,0 +1,54 @@
+// Jumbotron Styles
+.jumbotron.fortags {
+  margin-top: 3rem;
+  padding: 0;
+  border-radius: 0;
+  background-image: url(../images/jumbotron.jpg);
+  background-size: cover;
+}
+
+.jumbotron.fortags a {
+  padding: 5px 10px 7px;
+  background: #222;
+  border-radius: 30px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.8rem;
+  display: inline-block;
+}
+
+.layout-page .jumbotron.fortags {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .jumbotron.fortags {
+    margin-bottom: -50px;
+    margin-top: 3rem;
+    padding: 0;
+    height: 350px;
+    border-radius: 0;
+    background-image: url(../images/jumbotron.jpg);
+    background-size: cover;
+  }
+
+  .jumbotron.fortags .col-md-4 {
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+  }
+
+  .jumbotron.fortags .row {
+    margin: 0;
+  }
+}
+
+@media (max-width: 999px) {
+  .jumbotron.fortags {
+    margin-bottom: 0 !important;
+  }
+
+  .jumbotron {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+}
