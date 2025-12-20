@@ -27,3 +27,8 @@ Built with:
 ## Installed
 
 ![fivehundred]({{ site.baseurl }}/assets/images/dyson-mounts/3.jpg)
+
+## Accessories
+
+![fivehundred]({{ site.baseurl }}/assets/images/dyson-mounts/4.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/dyson-mounts/5.jpg)
