@@ -21,6 +21,7 @@ Watch `The Bear - Season 4, Episode 4` (it helps if you know the show) - around 
 ## MasterClass
 
 - [The Power Playbook: How to win at work](https://www.masterclass.com/classes/the-power-playbook)
+- [Small Habits that Make a Big Impact on Your Life](https://www.masterclass.com/classes/small-habits-that-make-a-big-impact-on-your-life)
 
 ## Books
 
