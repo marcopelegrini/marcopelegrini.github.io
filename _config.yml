@@ -7,7 +7,6 @@ logo: 'assets/images/logo-short.svg'
 logo_png: 'assets/images/logo-short.png'
 favicon: 'favicon.ico'
 baseurl: ""
-google_analytics: ''
 disqus: 'pelegrini-ca'
 include: ["_pages"]
 permalink: pretty
@@ -59,9 +58,6 @@ kramdown:
 adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
 
 # Featured Posts ("enabled" or "disabled")
 featured-posts: "disabled"
