@@ -55,6 +55,10 @@
     font-weight: 500;
     margin-bottom: 1rem;
   }
+
+  img.sitetitle {
+    max-width: 80%;
+  }
 }
 
 .post-top-meta {
@@ -114,8 +118,8 @@ span {
     }
   }
 
-  &.post-name a {
-    color: rgba(0, 0, 0, 0.8);
+  &.post-name {
+    color: var(--post-name-color);
   }
 }
 
