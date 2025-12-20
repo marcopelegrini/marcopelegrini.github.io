@@ -69,7 +69,7 @@
 		if (countEl) {
 			if (count > 0) {
 				countEl.textContent = count;
-				countEl.style.display = '';
+				countEl.style.display = 'inline-block';
 			} else {
 				countEl.style.display = 'none';
 			}

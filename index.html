@@ -47,7 +47,7 @@ title: pelegrini.ca
         </div>
         <div class="col-md mb-30px">
             <div class="h-100">
-                <a href="#" data-toggle="modal" data-target="#contactModal">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#contactModal">
                     <i class="fa-solid fa-envelope"></i> Contact me
                 </a>
             </div>
@@ -56,8 +56,6 @@ title: pelegrini.ca
 </section>
 
 {% if page.url == "/" and site.featured-posts == "enabled" %}
-<!-- Featured
-================================================== -->
 <section class="featured-posts">
     <div class="section-title">
         <h2><span>Featured</span></h2>
@@ -78,8 +76,6 @@ title: pelegrini.ca
 </section>
 {% endif %}
 
-<!-- Posts Index
-================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
@@ -98,8 +94,6 @@ title: pelegrini.ca
 
 </section>
 
-<!-- Pagination
-================================================== -->
 <div class="bottompagination">
 <span class="navigation" role="navigation">
     {% include pagination.html %}
