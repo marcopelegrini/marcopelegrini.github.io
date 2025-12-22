@@ -3,7 +3,7 @@ layout: post
 title:  "Counter tops facelift"
 summary: "When your landlord is a cheapskate"
 author: marco
-tags: [furniture]
+tags: [furniture, public]
 categories: [ Furniture ]
 image: assets/images/counters-facelift/cta.jpg
 beforetoc: "A facelifted counter is better than nothing"

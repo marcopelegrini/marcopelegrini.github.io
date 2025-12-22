@@ -3,7 +3,7 @@ layout: post
 title:  "Software I use"
 summary: "All the software I use for different things"
 author: marco
-tags: [software]
+tags: [software, public]
 categories: [ Software ]
 image: assets/images/software/cta.jpg
 toc: true

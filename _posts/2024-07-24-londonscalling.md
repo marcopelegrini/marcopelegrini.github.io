@@ -3,7 +3,7 @@ layout: post
 title:  "London's Calling"
 summary: If you get bored while in the can, problem solved!
 author: marco
-tags: [hardware, burningman]
+tags: [hardware, burningman, public]
 categories: [ Hardware ]
 image: assets/images/londonscalling/cta.jpg
 toc: true

@@ -3,7 +3,7 @@ layout: post
 title:  "Hide the cables"
 summary: "Just a little touch of organization"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/hide-the-cables/cta.jpg
 comments: false

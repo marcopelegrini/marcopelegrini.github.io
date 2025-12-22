@@ -3,7 +3,7 @@ layout: post
 title:  "Baratza improvements"
 summary: "Some improvements for the Baratza Encore"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/baratza-improvements/cta.jpg
 comments: false

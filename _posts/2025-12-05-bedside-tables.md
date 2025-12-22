@@ -3,7 +3,7 @@ layout: post
 title:  "Bedside tables"
 summary: "Simple bedside tables made out of scrap materials"
 author: marco
-tags: [furniture, tables]
+tags: [furniture, tables, public]
 categories: [ Furniture ]
 image: assets/images/bedside-tables/cta.jpg
 beforetoc: "Just a fun project for when you can't sleep"

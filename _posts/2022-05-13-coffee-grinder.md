@@ -3,7 +3,7 @@ layout: post
 title:  "Coffee Grinder Adapter"
 summary: "An adapter for the Cuisinart Coffee Grinder"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/coffee-grinder/cta.jpg
 beforetoc: "An adapter for the Cuisinart Coffee Grinder"

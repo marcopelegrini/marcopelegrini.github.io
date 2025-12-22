@@ -3,7 +3,7 @@ layout: post
 title:  "Kitchen Table"
 summary: "A marble dining table with a custom base"
 author: marco
-tags: [furniture]
+tags: [furniture, public]
 categories: [ Furniture ]
 image: assets/images/dining-table/cta.jpg
 beforetoc: "A marble dining table with a custom base"

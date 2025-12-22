@@ -3,7 +3,7 @@ layout: post
 title:  "Homebrew automatic backup"
 summary: Constantly backup your homebrew apps
 author: marco
-tags: [software]
+tags: [software, public]
 categories: [ Software ]
 image: assets/images/brew-backup/cta.jpg
 comments: false

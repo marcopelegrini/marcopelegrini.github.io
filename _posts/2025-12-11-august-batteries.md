@@ -3,7 +3,7 @@ layout: post
 title:  "August rechargeable batteries"
 summary: "Save on batteries!"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/august-batteries/cta.jpg
 comments: false

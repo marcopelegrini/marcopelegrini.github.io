@@ -3,7 +3,7 @@ layout: post
 title:  "Dyson mounts"
 summary: "Wall mounts for my Dyson V10"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/dyson-mounts/cta.jpg
 comments: false

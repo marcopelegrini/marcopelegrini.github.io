@@ -3,7 +3,7 @@ layout: post
 title:  "License plates frames"
 summary: "You can’t rush a restoration; you have to frame it with patience."
 author: marco
-tags: [improvements]
+tags: [improvements, public]
 categories: [ Improvements ]
 image: assets/images/license-plate-frames/cta.jpg
 comments: false

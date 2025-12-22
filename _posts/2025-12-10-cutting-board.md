@@ -3,7 +3,7 @@ layout: post
 title:  "Cutting board"
 summary: "A funky cutting board"
 author: marco
-tags: [utilities]
+tags: [utilities, public]
 categories: [ Utilities ]
 image: assets/images/cutting-board/cta.jpg
 comments: false

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: pelegrini.ca
+pagination:
+  enabled: true
 ---
 
 <section class="about-me">
@@ -84,11 +86,7 @@ title: pelegrini.ca
 
     <div class="row listrecent">
         {% for post in paginator.posts %}
-
-        {% unless post.private == true %}
         {% include postbox.html %}
-        {% endunless %}
-
         {% endfor %}
     </div>
 
