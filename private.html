@@ -3,6 +3,9 @@ layout: default
 title: Private Projects
 permalink: /private
 robots: noindex, nofollow
+pagination:
+  enabled: true
+  tag: private
 ---
 
 <section class="about-me">
@@ -20,11 +23,7 @@ robots: noindex, nofollow
 
     <div class="row listrecent">
         {% for post in site.posts %}
-
-        {% if post.private == true %}
         {% include postbox.html %}
-        {% endif %}
-
         {% endfor %}
     </div>
 
