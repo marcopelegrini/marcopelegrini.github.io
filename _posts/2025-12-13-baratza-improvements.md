@@ -38,7 +38,7 @@ Built with:
 
 - Autodesk Fusion
 - HAKKO FX-888D Soldering Iron
-- X1 Carbon 3D Printer
+- X1C/P2S 3D Printer
 
 ![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/1.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/baratza-improvements/2.jpg)

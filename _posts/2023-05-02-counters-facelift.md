@@ -27,20 +27,22 @@ Check out the before and after photos:
 Built with:
 
 - XCarve CNC
+- Universal Laser Systems Laser Cutter
+- Rotary Sander
 
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-kitchen-sink.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/cnc.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink-final.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-sink-final2.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/1.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/2.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/3.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/4.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/5.jpg)
 
 ### Kitchen corner
 
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-kitchen-corner.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-corner.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-kitchen-corner-final.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/6.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/7.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/8.jpg)
 
 ### Bathroom
 
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/before-bathroom.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/after-bathroom.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/9.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/counters-facelift/10.jpg)

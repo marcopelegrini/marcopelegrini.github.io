@@ -5,7 +5,7 @@ summary: "A little device to facilitate bringing joy to everyone"
 author: marco
 tags: [Gadgets, PopRocks, BurningMan, public]
 categories: [ BurningMan, PopRocks, 3D Print ]
-image: assets/images/poprocks/dispenser/cta.jpg
+image: assets/images/poprocks-dispenser/cta.jpg
 beforetoc: "A little device to facilitate bringing joy to everyone"
 hidden: false
 comments: false
@@ -19,6 +19,6 @@ Dealing with the little pop rocks packages is hard so I've built this dispenser 
 
 Built with:
 
-- X1 Carbon 3D Printer
+- X1C/P2S 3D Printer
 - Autodesk Fusion
 - Roland BN2-20 printer (sticker)

@@ -14,7 +14,7 @@ My closet is really small, so anything that helps keeping it tidy is welcome.
 Built with:
 
 - Autodesk Fusion 360
-- X1 Carbon 3D Printer
+- X1C/P2S 3D Printer
 
 ## Wand support
 

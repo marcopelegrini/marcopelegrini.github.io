@@ -24,7 +24,7 @@ My friend - _[Sarah Haywood](https://www.instagram.com/haywood.sarahhaywood)_ - 
 
 Sarah quickly designed the façade while I started working on the communication parts. That's how the London's Calling came to existence.
 
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/sarah.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/1.jpg)
 
 ## Components
 
@@ -38,9 +38,9 @@ The facade was made of a few materials:
 - Mirror stickers
 - Spray paint
 
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/components.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/porta.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/forest.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/2.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/3.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/4.jpg)
 
 ### Telephone
 
@@ -52,7 +52,7 @@ The telephone was custom built using:
 - A custom PCB running ATMega controlling the Walkie Talkies and the façade lights
 - Fairy lights
 
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/pcb.jpg)
-![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/radios.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/5.jpg)
+![fivehundred]({{ site.baseurl }}/assets/images/londonscalling/6.jpg)
 
 Find more photos on the [London's Calling](https://www.instagram.com/thelondonscalling/) <i class="fa-brands fa-instagram"></i>Instagram
