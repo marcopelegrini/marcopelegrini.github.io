@@ -31,6 +31,7 @@ VS Code
 
 ## Image editing
 
+- Affinity
 - Pixelmator
 - Adobe Illustrator
 
@@ -41,6 +42,10 @@ VS Code
 ## Photo Management
 
 - PhotoSweeper X
+
+## Video Player
+
+- IINA
 
 ## Torrent
 
