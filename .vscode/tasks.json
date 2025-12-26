@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Validate Post Tags",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "${workspaceFolder}/.vscode/validate-tags.sh"
+      ],
+      "problemMatcher": {
+        "owner": "post-tags",
+        "source": "post-validator",
+        "fileLocation": "absolute",
+        "pattern": {
+          "regexp": "^(.+):(\\d+):(\\d+):\\s+(error|warning):\\s+(.+)$",
+          "file": 1,
+          "line": 2,
+          "column": 3,
+          "severity": 4,
+          "message": 5
+        },
+        "background": {
+          "activeOnStart": false
+        }
+      },
+      "presentation": {
+        "echo": false,
+        "reveal": "never",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "runOptions": {
+        "runOn": "default"
+      }
+    }
+  ],
+  "inputs": []
+}

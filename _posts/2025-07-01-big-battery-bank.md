@@ -3,8 +3,8 @@ layout: post
 title:  "Big battery bank"
 summary: "Repurposing 18650 cells"
 author: marco
-tags: [Electronicos, public]
-categories: [electronics]
+tags: [electronics, public]
+categories: [Electronics]
 image: assets/images/big-battery-bank/cta.jpg
 ---
 

@@ -10,7 +10,7 @@ image: assets/images/glaum-matrix/cta.jpg
 
 The Glåüm Matrix was a concept of a LED matrix that would display images created via an editor one could access using their smartphone.
 
-### Matrix
+## Matrix
 
 The LED matrix consited in 16x16 LEDs 1" apart, connected in a zig-zag pattern. The LEDS were secured to a frame made of 5mm birch with 3.5mm birch sheets seperators.
 
@@ -21,7 +21,7 @@ The LED matrix consited in 16x16 LEDs 1" apart, connected in a zig-zag pattern. 
 ![fivehundred]({{ site.baseurl }}/assets/images/glaum-matrix/5.jpg)
 ![fivehundred]({{ site.baseurl }}/assets/images/glaum-matrix/6.jpg)
 
-### Software
+## Software
 
 The sofware part consisted in a client/server [React / NodeJS API](https://github.com/chanteblais/glaum_matrix) running on a RaspberryPi 3:
 
@@ -32,7 +32,7 @@ The Pi was also a Wifi hotspot (not connected to the internet though). When user
 
 Users could also create, save and load gifs which would play in a loop.
 
-### Status
+## Status
 
 I was building this with an ex-girlfriend... as our relationship ended, so did the project, unfortunatelly. I would say it sits at 80% conclusion.
 

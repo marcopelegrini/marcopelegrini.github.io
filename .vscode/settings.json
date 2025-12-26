@@ -1,4 +1,10 @@
 {
     "mocha.enabled": true,
-    "sarif-viewer.connectToGithubCodeScanning": "off"
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "triggerTaskOnSave.tasks": {
+        "Validate Post Tags": [
+            "_posts/**/*.md"
+        ]
+    },
+    "triggerTaskOnSave.showStatusBarToggle": true
 }
