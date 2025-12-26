@@ -4,9 +4,7 @@ title: "PopRocks Tray"
 summary: "Sniff away!"
 author: marco
 tags: [private]
-categories: []
 image: assets/images/poprocks-tray/cta.jpg
-comments: false
 ---
 
 Unfortunatelly I didn't capture the process, but it was pretty simple.

@@ -4,10 +4,9 @@ title:  "Coffee Grinder Adapter"
 summary: "An adapter for the Cuisinart Coffee Grinder"
 author: marco
 tags: [utilities, public]
-categories: [ Utilities ]
+categories: [Utilities]
 image: assets/images/coffee-grinder/cta.jpg
 beforetoc: "An adapter for the Cuisinart Coffee Grinder"
-comments: false
 ---
 
 ## Coffee Grinder Adapter

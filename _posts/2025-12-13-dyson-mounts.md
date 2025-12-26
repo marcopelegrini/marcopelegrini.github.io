@@ -4,9 +4,8 @@ title:  "Dyson mounts"
 summary: "Wall mounts for my Dyson V10"
 author: marco
 tags: [utilities, public]
-categories: [ Utilities ]
+categories: [Utilities]
 image: assets/images/dyson-mounts/cta.jpg
-comments: false
 ---
 
 My closet is really small, so anything that helps keeping it tidy is welcome.

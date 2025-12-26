@@ -4,11 +4,10 @@ title:  "PopRocks dispenser"
 summary: "A little device to facilitate bringing joy to everyone"
 author: marco
 tags: [Gadgets, PopRocks, BurningMan, public]
-categories: [ BurningMan, PopRocks, 3D Print ]
+categories: [BurningMan, PopRocks]
 image: assets/images/poprocks-dispenser/cta.jpg
 beforetoc: "A little device to facilitate bringing joy to everyone"
 hidden: false
-comments: false
 ---
 
 ## PopRocks dispenser

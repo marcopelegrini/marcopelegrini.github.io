@@ -4,9 +4,8 @@ title:  "Hide the cables"
 summary: "Just a little touch of organization"
 author: marco
 tags: [utilities, public]
-categories: [ Utilities ]
+categories: [Utilities]
 image: assets/images/hide-the-cables/cta.jpg
-comments: false
 ---
 
 I find cables showing unattractive, so let's hide them!

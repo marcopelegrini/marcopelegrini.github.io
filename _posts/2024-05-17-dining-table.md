@@ -4,10 +4,9 @@ title:  "Kitchen Table"
 summary: "A marble dining table with a custom base"
 author: marco
 tags: [furniture, public]
-categories: [ Furniture ]
+categories: [Furniture]
 image: assets/images/dining-table/cta.jpg
 beforetoc: "A marble dining table with a custom base"
-comments: false
 ---
 
 I wanted a nice marble table, but they're so expensive, so I decided to make one:

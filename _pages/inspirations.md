@@ -2,7 +2,6 @@
 layout: page
 title: Inspirations
 permalink: /inspirations
-comments: false
 ---
 
 ## Quick note on my personality

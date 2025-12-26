@@ -4,10 +4,9 @@ title:  "Software I use"
 summary: "All the software I use for different things"
 author: marco
 tags: [software, public]
-categories: [ Software ]
+categories: [Software]
 image: assets/images/software/cta.jpg
 toc: true
-comments: false
 ---
 
 ## IDE

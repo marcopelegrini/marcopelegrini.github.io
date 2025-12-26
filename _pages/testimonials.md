@@ -2,7 +2,6 @@
 layout: page
 title: Testimonials
 permalink: /testimonials
-comments: false
 ---
 
 <div class="row mb-5">

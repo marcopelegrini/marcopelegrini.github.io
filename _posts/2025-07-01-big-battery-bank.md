@@ -6,7 +6,6 @@ author: marco
 tags: [Electronicos, public]
 categories: [electronics]
 image: assets/images/big-battery-bank/cta.jpg
-comments: false
 ---
 
 I started building a big battery bank from repurposed 1850 cells. The project was going well, but then other cells started to fail and it became really hard to maintain.

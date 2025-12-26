@@ -4,9 +4,8 @@ title:  "August rechargeable batteries"
 summary: "Save on batteries!"
 author: marco
 tags: [utilities, public]
-categories: [ Utilities ]
+categories: [Utilities]
 image: assets/images/august-batteries/cta.jpg
-comments: false
 ---
 
 I have an [August Smart Lock](https://august.com/products/august-wifi-smart-lock) and they require [Lithium 123](https://www.uline.ca/Product/Detail/S-24916/Batteries/Energizer-123-Lithium-Batteries-12-Pack) batteries which are expensive and don't last as long.

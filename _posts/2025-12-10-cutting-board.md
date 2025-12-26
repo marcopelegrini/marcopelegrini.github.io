@@ -4,9 +4,8 @@ title:  "Cutting board"
 summary: "A funky cutting board"
 author: marco
 tags: [utilities, public]
-categories: [ Utilities ]
+categories: [Utilities]
 image: assets/images/cutting-board/cta.jpg
-comments: false
 ---
 
 I've made this cutting board from some scrap material I had.

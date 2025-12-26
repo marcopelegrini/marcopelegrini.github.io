@@ -4,12 +4,11 @@ title:  "Counter tops facelift"
 summary: "When your landlord is a cheapskate"
 author: marco
 tags: [furniture, public]
-categories: [ Furniture ]
+categories: [Furniture]
 image: assets/images/counters-facelift/cta.jpg
 beforetoc: "A facelifted counter is better than nothing"
 toc: true
 hidden: false
-comments: false
 ---
 
 ## Facelift of my rental counter tops

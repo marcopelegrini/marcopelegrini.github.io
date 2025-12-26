@@ -4,11 +4,10 @@ title:  "London's Calling"
 summary: If you get bored while in the can, problem solved!
 author: marco
 tags: [hardware, burningman, public]
-categories: [ Hardware ]
+categories: [Hardware, BurningMan]
 image: assets/images/londonscalling/cta.jpg
 toc: true
 hidden: false
-comments: false
 ---
 
 ## London's Calling
